@@ -5,10 +5,6 @@
     5  cd pulumi-workstation-setup/
     6  code .
     7  ssh-keygen -t rsa
-    8  git config
-    9  git config -l
-   10  git config --global user.name "Richard Shade"
-   11  git config --global user.email richard@pulumi.com
    12  sudo apt-get install gpa seahorse
    13  sudo add-apt-repository ppa:longsleep/golang-backports
    14  sudo apt install golang-1.18
